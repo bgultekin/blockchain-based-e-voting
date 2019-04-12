@@ -1,0 +1,14 @@
+{
+    "100": {
+        "name": "Comic Country Election",
+        "candidates": ["Lisa Simpson", "Eric Cartman"]
+    },
+    "101": {
+        "name": "Springfield State Election",
+        "candidates": ["Bart Simpson", "Joe Quimby", "Fat Tony"]
+    },
+    "102": {
+        "name": "South Park State Election",
+        "candidates": ["Token Black", "Mary Mcdaniels"]
+    }
+}

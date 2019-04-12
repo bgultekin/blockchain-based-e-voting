@@ -1,0 +1,86 @@
+[{
+	"id": "100",
+	"name": "Homer",
+    "surname": "Simpson",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "101",
+	"name": "Marge",
+    "surname": "Simpson",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "102",
+	"name": "Bart",
+    "surname": "Simpson",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "103",
+	"name": "Lisa",
+    "surname": "Simpson",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "104",
+	"name": "Ned",
+    "surname": "Flanders",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "105",
+	"name": "Moe",
+    "surname": "Szyslak",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "106",
+	"name": "Fat",
+    "surname": "Tony",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "107",
+	"name": "Apu",
+    "surname": "Nahasapeemapetilon",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "108",
+	"name": "Jeff",
+    "surname": "Albertson",
+    "eligible_for_voting": [100, 101]
+}, {
+	"id": "200",
+	"name": "Kyle",
+    "surname": "Broflovski",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "201",
+	"name": "Stan",
+    "surname": "Marsh",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "202",
+	"name": "Eric",
+    "surname": "Cartman",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "203",
+	"name": "Butters",
+    "surname": "Stotch",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "204",
+	"name": "Wendy",
+    "surname": "Testaburger",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "205",
+	"name": "Token",
+    "surname": "Black",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "206",
+	"name": "Mary",
+    "surname": "Mcdaniels",
+    "eligible_for_voting": [100, 102]
+}, {
+	"id": "207",
+	"name": "Jenkins",
+    "surname": "South",
+    "eligible_for_voting": [100, 102]
+}]
